@@ -6,8 +6,10 @@ Explore and set up some firm conditions for all the model
 
 Then, try different models with fine-tuning.
 
-Model
+
 ________________________________________
+
+Model
 
 01: basic CNN model
 
