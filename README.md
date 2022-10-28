@@ -1,10 +1,13 @@
 # CNN_classification
 
 00: basic CNN model
+
 Explore and set up some firm conditions for all the model 
 
+Then, try different models with fine-tuning.
+
 Model
-Trying different models with fine-tuning.
+________________________________________
 
 01: basic CNN model
 
